@@ -1,0 +1,1 @@
+execute at @a if block ~ ~-1 ~ stone run execute at @a run function jdp:sheep
